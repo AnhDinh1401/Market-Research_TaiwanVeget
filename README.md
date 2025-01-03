@@ -1,1 +1,4 @@
-# Đây là một dự án nhỏ nghiên cứu về thị trường rau củ tại Đài Loan. Vui lòng download file Excel để xem chi tiết bài nghiên cứu của tôi!
+# Market-Research_TaiwanVeget
+### Purpose: This project give an overall review about vegetable market in Tawain that will help my company build selling strategy in this market
+### Technique tools I used in this project: Python, Excel
+### To view more detail, Please download my Excel file!
